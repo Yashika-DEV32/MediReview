@@ -1,0 +1,7 @@
+Algorithm,Accuracy
+Linear SVM,0.876875
+Logistic Regression,0.8725
+Naive Bayes,0.869375
+Random Forest,0.8672916666666667
+Decision Tree,0.8666666666666667
+KNN,0.8633333333333333

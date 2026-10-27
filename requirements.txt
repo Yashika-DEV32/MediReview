@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+joblib
+jupyter
+streamlit
+django
+djangorestframework
+requests
+pypdf
+python-docx

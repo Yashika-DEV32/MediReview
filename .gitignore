@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/raw/*.csv
+data/processed/*.csv
+artifacts/*.npz
+artifacts/*.joblib
+models/*.joblib
